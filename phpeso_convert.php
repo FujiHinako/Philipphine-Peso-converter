@@ -58,7 +58,7 @@
             <option value="AUD">AUD</option>
             </select>
             
-        <br><br>
+       
 
         <input id="btn btn-outline-dark" type="submit" value="Convert">
         
@@ -66,4 +66,5 @@
         </form>
     </div>
 </body>
+
 </html>
